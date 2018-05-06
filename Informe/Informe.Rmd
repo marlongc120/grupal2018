@@ -165,11 +165,11 @@ PARA EL 10, TIENE QUE ESTAR LISTO UN PROSEDIMIENTO DE RECOLECCION DE DATOS EN EL
 
 # Resultados
 
-Aquí se presentará la estimación de la probabilidad de extinción a 5 años para cada especie. También cualquier resultado que surge como paso intermedio para calcular la probabilidad de extinción.
+Aquí se presentará la estimación de la probabilidad de extinción a 5 años para cada especie.  También cualquier resultado que surge como paso intermedio para calcular la probabilidad de  extinción.
 
 # Discusión
 
-Discutiremos sobre la validez de los resultados, en función de los datos obtenidos y los requerimientos del análisi de datos
+Discutiremos  sobre la validez de los resultados, en función de los datos obtenidos y los requerimientos del análisi de datos
 
 # Cuadros
 
